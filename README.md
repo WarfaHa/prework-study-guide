@@ -13,6 +13,9 @@ This study guide can be used to learn more about each topic like HTML, CSS, Java
 
 ![alt text](/assets/screenshot.png)
 
+## Credits
+
+N/A
 
 ## License
 
