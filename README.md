@@ -11,7 +11,7 @@ N/A
 
 This study guide can be used to learn more about each topic like HTML, CSS, JavaScript, Git. You can learn the importance of each element in HTML. You can learn different ways to style with CSS. You can also see how JavaScript runs in the DevTools console.
 
-![alt text](assets/images/screenshot.png)
+![alt text](/assets/screenshot.png)
 
 
 ## License
